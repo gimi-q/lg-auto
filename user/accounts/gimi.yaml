@@ -1,0 +1,11 @@
+email: vegim.qehaja@mvfglobal.com
+fullname: gimi
+title: admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$Sd7KxX1WVZ9ASwXlRcKpeOuVKOogsseoJPJbvh9FgrHDUqZ06H5J6
